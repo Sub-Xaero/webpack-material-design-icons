@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codigi/webpack-material-design-icons.git"
+    "url": "git+https://github.com/Sub-Xaero/webpack-material-design-icons.git"
   },
   "keywords": [
     "webpack",
@@ -17,10 +17,10 @@
   "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codigi/webpack-material-design-icons/issues"
+    "url": "https://github.com/Sub-Xaero/webpack-material-design-icons/issues"
   },
-  "homepage": "https://github.com/codigi/webpack-material-design-icons#readme",
+  "homepage": "https://github.com/Sub-Xaero/webpack-material-design-icons#readme",
   "dependencies": {
-    "material-design-icons": "^3.0.1"
+    "material-design-icons": "github:Sub-Xaero/material-design-icons"
   }
 }
