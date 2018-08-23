@@ -14,13 +14,13 @@
     "icons",
     "font"
   ],
-  "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
+  "author": "Dylan Clarke <Sub-Xaero@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sub-Xaero/webpack-material-design-icons/issues"
   },
   "homepage": "https://github.com/Sub-Xaero/webpack-material-design-icons#readme",
   "dependencies": {
-    "material-design-icons": "github:Sub-Xaero/material-design-icons"
+    "material-design-icon-fonts": "^3.0.1"
   }
 }
